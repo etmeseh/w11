@@ -165,7 +165,7 @@ function QuickAccess() {
 				<title>etka - Quick access</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/quick-access"
+					href="https://www.etka.reative.de/explorer/quick-access"
 				/>
 
 				{/* Description */}
@@ -178,7 +178,7 @@ function QuickAccess() {
 				<meta property="og:title" content="Etka - Quick access" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/quick-access"
+					content="https://www.etka.reative.de/explorer/quick-access"
 				/>
 				<meta
 					property="og:description"

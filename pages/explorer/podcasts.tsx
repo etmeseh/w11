@@ -100,7 +100,7 @@ function Podcasts({ data }: { data: Props }) {
 				<title>etka - Podcasts</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/favorites"
+					href="https://www.etka.reative.de/explorer/favorites"
 				/>
 
 				{/* Description */}
@@ -113,7 +113,7 @@ function Podcasts({ data }: { data: Props }) {
 				<meta property="og:title" content="Etka - Podcasts" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/podcasts"
+					content="https://www.etka.reative.de/explorer/podcasts"
 				/>
 				<meta
 					property="og:description"

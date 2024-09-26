@@ -6,7 +6,7 @@ export default function Home() {
 		<>
 			<Head>
 				<title>etka</title>
-				<link rel="canonical" href="https://www.etka.dev" />
+				<link rel="canonical" href="https://www.etka.reative.de" />
 
 				{/* Description */}
 				<meta
@@ -16,7 +16,7 @@ export default function Home() {
 
 				{/* OpenGraph */}
 				<meta property="og:title" content="Etka" />
-				<meta property="og:url" content="https://www.etka.dev" />
+				<meta property="og:url" content="https://www.etka.reative.de" />
 				<meta
 					property="og:description"
 					content="Etka's personal website. A place to share my projects and learn about me. I do some coding sometimes."

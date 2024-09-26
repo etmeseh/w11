@@ -60,7 +60,7 @@ function Pictures({ data }: { data: MediaType[] }) {
 				<title>etka - Pictures</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/pictures"
+					href="https://www.etka.reative.de/explorer/pictures"
 				/>
 
 				{/* Description */}
@@ -73,7 +73,7 @@ function Pictures({ data }: { data: MediaType[] }) {
 				<meta property="og:title" content="Etka - Pictures" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/pictures"
+					content="https://www.etka.reative.de/explorer/pictures"
 				/>
 				<meta
 					property="og:description"

@@ -9,7 +9,7 @@ function Downloads() {
 				<title>etka - Downloads</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/downloads"
+					href="https://www.etka.reative.de/explorer/downloads"
 				/>
 
 				{/* Description */}
@@ -22,7 +22,7 @@ function Downloads() {
 				<meta property="og:title" content="Etka - Downloads" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/downloads"
+					content="https://www.etka.reative.de/explorer/downloads"
 				/>
 				<meta
 					property="og:description"

@@ -37,10 +37,10 @@ export default function Document() {
 					content="Average Windows enjoyer"
 				/>
 				<meta property="og:type" content="website" />
-				<meta property="og:url" content="https://www.etka.dev" />
+				<meta property="og:url" content="https://www.etka.reative.de" />
 				<meta
 					property="og:image"
-					content="https://www.etka.dev/logo.webp"
+					content="https://www.etka.reative.de/logo.webp"
 				/>
 
 				{/* Global Site Tag (gtag.js) - Google Analytics */}

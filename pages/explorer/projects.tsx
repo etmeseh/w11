@@ -68,7 +68,7 @@ function Projects({ data }: { data: ProjectType[] }) {
 				<title>Etka - Projects</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/projects"
+					href="https://www.etka.reative.de/explorer/projects"
 				/>
 
 				{/* Description */}
@@ -81,7 +81,7 @@ function Projects({ data }: { data: ProjectType[] }) {
 				<meta property="og:title" content="Etka - Quick access" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/projects"
+					content="https://www.etka.reative.de/explorer/projects"
 				/>
 				<meta
 					property="og:description"

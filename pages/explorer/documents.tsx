@@ -9,7 +9,7 @@ function Documents() {
 				<title>etka - Documents</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/documents"
+					href="https://www.etka.reative.de/explorer/documents"
 				/>
 
 				{/* Description */}
@@ -22,7 +22,7 @@ function Documents() {
 				<meta property="og:title" content="Etka - Documents" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/documents"
+					content="https://www.etka.reative.de/explorer/documents"
 				/>
 				<meta
 					property="og:description"

@@ -115,7 +115,7 @@ function Tools() {
 				<title>etka - Tools</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/tools"
+					href="https://www.etka.reative.de/explorer/tools"
 				/>
 
 				{/* Description */}
@@ -128,7 +128,7 @@ function Tools() {
 				<meta property="og:title" content="Etka - Tools" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/tools"
+					content="https://www.etka.reative.de/explorer/tools"
 				/>
 				<meta
 					property="og:description"

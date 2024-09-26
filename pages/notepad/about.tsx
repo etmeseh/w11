@@ -24,7 +24,7 @@ function About() {
 				<title>etka - About me</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/notepad/about"
+					href="https://www.etka.reative.de/notepad/about"
 				/>
 
 				{/* Description */}
@@ -37,7 +37,7 @@ function About() {
 				<meta property="og:title" content="Etka - About me" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/notepad/about"
+					content="https://www.etka.reative.de/notepad/about"
 				/>
 				<meta
 					property="og:description"

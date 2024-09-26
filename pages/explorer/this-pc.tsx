@@ -172,7 +172,7 @@ function ThisPC() {
 				<title>etka - This PC</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/this-pc"
+					href="https://www.etka.reative.de/explorer/this-pc"
 				/>
 
 				{/* Description */}
@@ -185,7 +185,7 @@ function ThisPC() {
 				<meta property="og:title" content="Etka - This PC" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/this-pc"
+					content="https://www.etka.reative.de/explorer/this-pc"
 				/>
 				<meta
 					property="og:description"

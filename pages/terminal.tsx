@@ -7,7 +7,7 @@ function Terminal() {
 		<>
 			<Head>
 				<title>etka - Terminal</title>
-				<link rel="canonical" href="https://www.etka.dev/terminal" />
+				<link rel="canonical" href="https://www.etka.reative.de/terminal" />
 
 				{/* Description */}
 				<meta
@@ -19,7 +19,7 @@ function Terminal() {
 				<meta property="og:title" content="Etka - Terminal" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/terminal"
+					content="https://www.etka.reative.de/terminal"
 				/>
 				<meta
 					property="og:description"

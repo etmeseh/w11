@@ -60,7 +60,7 @@ function Videos({ data }: { data: MediaType[] }) {
 				<title>etka - Videos</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/videos"
+					href="https://www.etka.reative.de/explorer/videos"
 				/>
 
 				{/* Description */}
@@ -73,7 +73,7 @@ function Videos({ data }: { data: MediaType[] }) {
 				<meta property="og:title" content="Etka - Videos" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/videos"
+					content="https://www.etka.reative.de/explorer/videos"
 				/>
 				<meta
 					property="og:description"

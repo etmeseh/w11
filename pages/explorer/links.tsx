@@ -154,7 +154,7 @@ function Links() {
 				<title>etka - Links</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/links"
+					href="https://www.etka.reative.de/explorer/links"
 				/>
 
 				{/* Description */}
@@ -167,7 +167,7 @@ function Links() {
 				<meta property="og:title" content="Etka - Links" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/links"
+					content="https://www.etka.reative.de/explorer/links"
 				/>
 				<meta
 					property="og:description"

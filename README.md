@@ -6,7 +6,7 @@ Windows 11 inspired personal portfolio website built using Next.js & deployed on
 ![windows11-banner](https://i.imgur.com/muQyeAG.png)
 
 ## Demo
-View the website on Vercel: https://www.etka.dev
+View the website on Vercel: https://www.etka.reative.de
 
 ## Getting Started
 

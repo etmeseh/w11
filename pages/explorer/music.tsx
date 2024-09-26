@@ -9,7 +9,7 @@ function Music() {
 				<title>etka - Music</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/music"
+					href="https://www.etka.reative.de/explorer/music"
 				/>
 
 				{/* Description */}
@@ -22,7 +22,7 @@ function Music() {
 				<meta property="og:title" content="Etka - Music" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/music"
+					content="https://www.etka.reative.de/explorer/music"
 				/>
 				<meta
 					property="og:description"

@@ -58,7 +58,7 @@ function Bluescreen({ errorCode }: Props) {
 						<div>
 							<h2>
 								For more information about this issue and
-								possible fixes, visit https://etka.dev/error
+								possible fixes, visit https://etka.reative.de/error
 							</h2>
 							<h2>
 								If you call a support person, give them this

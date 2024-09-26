@@ -149,7 +149,7 @@ function Desktop() {
 				<title>Etka - Desktop</title>
 				<link
 					rel="canonical"
-					href="https://www.etka.dev/explorer/desktop"
+					href="https://www.etka.reative.de/explorer/desktop"
 				/>
 
 				{/* Description */}
@@ -162,7 +162,7 @@ function Desktop() {
 				<meta property="og:title" content="Etka - Desktop" />
 				<meta
 					property="og:url"
-					content="https://www.etka.dev/explorer/desktop"
+					content="https://www.etka.reative.de/explorer/desktop"
 				/>
 				<meta
 					property="og:description"
